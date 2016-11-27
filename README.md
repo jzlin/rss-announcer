@@ -1,2 +1,2 @@
 # rss-announcer.github.io
-Link to https://rss-announcer.github.io
+https://jzlin.github.io/rss-announcer/
